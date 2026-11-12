@@ -34,6 +34,7 @@
 
     # Enable "Silent boot"
     plymouth.enable = true;
+    playmouth.theme = "solar";
     consoleLogLevel = 3;
     kernelParams = [
       "quiet"
